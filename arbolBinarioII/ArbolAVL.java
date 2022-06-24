@@ -58,5 +58,7 @@ public class ArbolAVL {
                     break;
                 }    
         }while(respuesta < 3);
+
+        sc.close();
     }
  }

@@ -8,7 +8,7 @@ public class Arbolito {
         raiz = null;
     }
     public NodoAvl obtenerRaiz(){
-    return raiz;
+        return raiz;
     }
 
     //Método Buscar
